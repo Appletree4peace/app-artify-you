@@ -1,0 +1,49 @@
+---
+lang_code: zh
+site_title: Artify You - 把你的肖像照转换为艺术画
+lang_url: /en
+lang_switch: Switch to English
+header_title: 把你的肖像照转换为美丽的艺术画
+header_slogan: 用AI绘图技术绘制艺术画，分享朋友圈，小红书
+get_started: 开始转换
+step_1: "第一步: 选择需要转换的艺术风格"
+step_1_description: 点击下面的艺术风格. 
+like_for_like: 原图转3D卡通风格
+like_for_like_description: 原样转换肖像至3D卡通风格
+sitting_in_chair: 坐在躺椅上
+sitting_in_chair_description: 转换为3D卡通人物，坐在躺椅上
+singing_pop_star: 唱歌的流行歌手
+singing_pop_star_description: 把你的肖像转换为对着麦克风唱歌的歌星
+model_posing: 摆造型的模特
+model_posing_description: 把你的肖像转换为凹造型的模特.
+step_2: "第二步: 上传你的肖像照"
+step_2_description: 请确保上传一张符合规格的肖像照以保证转换效果
+step_2_sub: 选择并上传一张漂亮的肖像照
+select_to_upload: 选择上传肖像照
+your_portrait: 你的肖像照
+your_email: 你的邮箱地址
+your_email_place_holder: 填写邮箱地址
+submit: 提交
+copyright: 版权所有
+right_reserved: 保留所有版权
+success_title: 大功告成！
+sucess_prompt: 您的肖像照已经成功上传，我们正在帮您转换中。<br />转换完成后您将收到我们的系统邮件下载艺术照。 <br /><br />记得查看邮箱哦，还有垃圾邮件，有时候系统邮件会调皮地跑那去 ~
+contact_us_1: 喜欢我们的服务吗？
+contact_us_2: 欢迎在社交网络上订阅我们的频道！
+film_noir: 黑色电影风
+film_noir_description: 艺术风格照 - 黑色电影
+neon: 霓虹
+neon_description: 艺术风格照 - 霓虹
+snow: 冰雪
+snow_description: 艺术风格照 - 冰雪
+line_art: 素描
+line_art_description: 艺术风格照 - 素描
+
+
+# js
+uploading: 上传中... (请耐心等待)
+oops: "啊呀，有错误发生了: "
+invalid_photo: "照片文件类型不符合要求. 请上传以 'png', 'jpg', 'jpeg', 'gif', 'heic', 'webp'为后缀名的文件 "
+validate_photo: 请选择肖像照上传
+validate_email: 邮箱地址格式不合法，请输入合法的邮箱地址
+validate_art_styles: 请选择至少一种艺术风格

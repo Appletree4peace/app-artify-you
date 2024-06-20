@@ -1,0 +1,49 @@
+---
+lang_code: en
+site_title: Artify You - Turn your portrait photo into amazing art, with AI
+lang_url: /zh
+lang_switch: 切换语言至中文
+header_title: Turn your portrait into amazing art.
+header_slogan: Create amazing art work with AI to share with friends.
+get_started: Get started
+step_1: "Step 1: Choose art styles to convert"
+step_1_description: Simple click to the art style you want to convert your portrait photo into. 
+like_for_like: Like for Like 3D Cartoon
+like_for_like_description: Like-for-like convert of your original photo to 3D cartoon style.
+sitting_in_chair: Sitting in Chair
+sitting_in_chair_description: Turn your portrait as a cute character sitting in chair.
+singing_pop_star: Singing Pop Star
+singing_pop_star_description: Turn your portrait as a pop star singing.
+model_posing: Model Posing
+model_posing_description: Turn your portrait as a fashion model posing.
+step_2: "Step 2: Upload your photo"
+step_2_description: Make sure to pick a photo following the style guide.
+step_2_sub: Pick a good quality portrait photo showing your beautiful face and upload.
+select_to_upload: Select photo to upload
+your_portrait: Your portrait photo
+your_email: Your email address
+your_email_place_holder: Fill in email address
+submit: Submit
+copyright: Copyright
+right_reserved: All rights reserved.
+success_title: All Done! Time to relax
+sucess_prompt: We have got your portrait photo and are working on the conversion. You'll receive an email notification once the art work is ready to be downloaded. <br />Thanks for using our service. Now get yourself a cup of coffee ~<br /><br />Oh, don't forget to check spam box in case it goes there by accident :)
+contact_us_1: Like our work? 
+contact_us_2: Follow us on social network!
+film_noir: Film Noir
+film_noir_description: Art Style - Film Noir
+neon: Neon
+neon_description: Art Style - Neon
+snow: Snow
+snow_description: Art Style - Snow
+line_art: Line Art
+line_art_description: Art Style - Line Art
+
+
+# js
+uploading: Uploading... (Please wait)
+oops: "Oops, some error occured: "
+invalid_photo: "Invalid photo file type. Photo should be 'png', 'jpg', 'jpeg', 'gif', 'heic', 'webp' "
+validate_photo: Please select a photo to upload
+validate_email: Please enter a valid email address.
+validate_art_styles: Please select at least one art style to convert
